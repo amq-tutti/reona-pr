@@ -1,72 +1,163 @@
 [
     {
         "id": 1,
-        "anime": "0-saiji Start Dash Monogatari Season 2 - Ending 1",
-        "name": "\"Beyond the Trajectory\" by Chata",
-        "video": "https://eudist.animemusicquiz.com/5u2mhk.webm",
-        "mp3": null
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Insert Song",
+        "name": "Pilgrim by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/jbomd4.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ye2bxe.mp3"
     },
     {
         "id": 2,
-        "anime": "1-punkan dake Furete mo Ii yo... Share House no Himitsu Rule. - Ending 1",
-        "name": "\"Session Sadame Night\" by Dai Takanashi",
-        "video": "https://eudist.animemusicquiz.com/f23gq2.webm",
-        "mp3": "https://eudist.animemusicquiz.com/ne5vos.mp3"
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Insert Song",
+        "name": "Independence by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/ps7iql.webm",
+        "mp3": "https://naedist.animemusicquiz.com/rkwpnf.mp3"
     },
     {
         "id": 3,
-        "anime": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu. - Ending 1",
-        "name": "\"Treasure Chest\" by Yuki Tanaka",
-        "video": "https://eudist.animemusicquiz.com/agsvoz.webm",
-        "mp3": "https://eudist.animemusicquiz.com/i3vp9q.mp3"
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Insert Song",
+        "name": "Hikari by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/ku0eh1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/36ui9q.mp3"
     },
     {
         "id": 4,
-        "anime": "Akuyaku Reijou Tensei Ojisan - Ending 1",
-        "name": "\"Matsuken Samba II\" by Kazuhiko Inoue, M・A・O",
-        "video": "https://eudist.animemusicquiz.com/e8q47f.webm",
-        "mp3": "https://eudist.animemusicquiz.com/dje0hr.mp3"
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Insert Song",
+        "name": "Rea(s)oN by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/9f9za9.webm",
+        "mp3": "https://naedist.animemusicquiz.com/4b45zo.mp3"
     },
     {
         "id": 5,
-        "anime": "Amagami-san Chi no Enmusubi - Ending 2",
-        "name": "\"Kamisama no Iu Toori!\" by ≠ME",
-        "video": "https://eudist.animemusicquiz.com/p4etz1.webm",
-        "mp3": "https://eudist.animemusicquiz.com/wz8z3p.mp3"
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Insert Song",
+        "name": "Disorder by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/rgd4s1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/njch70.mp3"
     },
     {
         "id": 6,
-        "anime": "Ameku Takao no Suiri Karte - Ending 1",
-        "name": "\"will be fine\" by Gospellers feat. Anly",
-        "video": "https://eudist.animemusicquiz.com/0spf2m.webm",
-        "mp3": "https://eudist.animemusicquiz.com/iagxs7.mp3"
+        "anime": "Sword Art Online: Alicization - Ending 2",
+        "name": "forget-me-not by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/zdczw8.webm",
+        "mp3": "https://naedist.animemusicquiz.com/yhzllf.mp3"
     },
     {
         "id": 7,
-        "anime": "Ao no Exorcist: Yosuga-hen - Ending 1",
-        "name": "\"Overlap\" by Shiyui",
-        "video": "https://eudist.animemusicquiz.com/3z1d8i.webm",
-        "mp3": "https://eudist.animemusicquiz.com/162vdv.mp3"
+        "anime": "Sword Art Online: Alicization - Ending 3",
+        "name": "Niji no Kanata ni by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/1ehdrx.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ha7pj4.mp3"
     },
     {
         "id": 8,
-        "anime": "Ao no Hako - Ending 2",
-        "name": "\"Contrast\" by TOMOO",
-        "video": "https://eudist.animemusicquiz.com/qmcqk3.webm",
-        "mp3": "https://eudist.animemusicquiz.com/l2sgqo.mp3"
+        "anime": "Happy Sugar Life - Ending 1",
+        "name": "SWEET HURT by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/ddd1k5.webm",
+        "mp3": "https://naedist.animemusicquiz.com/wn8emi.mp3"
     },
     {
         "id": 9,
-        "anime": "Ao no Miburo - Ending 2",
-        "name": "\"Fragment\" by osage",
-        "video": "https://eudist.animemusicquiz.com/8b8iva.webm",
-        "mp3": "https://eudist.animemusicquiz.com/0yt4lm.mp3"
+        "anime": "Happy Sugar Life - Ending 2",
+        "name": "Canaria by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/v2ru9u.webm",
+        "mp3": "https://naedist.animemusicquiz.com/2oera4.mp3"
     },
     {
         "id": 10,
-        "anime": "Arafou Otoko no Isekai Tsuuhan - Ending 1",
-        "name": "\"Aicraft\" by Kiminone",
-        "video": "https://eudist.animemusicquiz.com/ohlrpc.webm",
-        "mp3": "https://eudist.animemusicquiz.com/74jbjn.mp3"
+        "anime": "Sword Art Online: Alicization - War of Underworld - Opening 1",
+        "name": "ANIMA by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/h0rqd7.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1yuwm1.mp3"
+    },
+    {
+        "id": 11,
+        "anime": "Nanatsu no Taizai: Funnu no Shinpan - Ending 1",
+        "name": "time by SawanoHiroyuki[nZk]:ReoNa",
+        "video": "https://naedist.animemusicquiz.com/o2rl3f.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6uwaf3.mp3"
+    },
+    {
+        "id": 12,
+        "anime": "Shadows House - Ending 1",
+        "name": "Nainai by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/fxi5fs.webm",
+        "mp3": "https://naedist.animemusicquiz.com/6ksxvh.mp3"
+    },
+    {
+        "id": 13,
+        "anime": "Shadows House 2nd Season - Opening 1",
+        "name": "Shall we Dance? by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/kf45kf.webm",
+        "mp3": "https://naedist.animemusicquiz.com/1y74tj.mp3"
+    },
+    {
+        "id": 14,
+        "anime": "Arknights: Reimei Zensou/Prelude to Dawn - Opening 1",
+        "name": "Alive by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/e50t9t.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xkhz3l.mp3"
+    },
+    {
+        "id": 15,
+        "anime": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su - Ending 2",
+        "name": "Gajumaru ~Heaven in the Rain~ by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/v37lw1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/xh9dtk.mp3"
+    },
+    {
+        "id": 16,
+        "anime": "Arknights: Touin Kiro/Perish in Frost - Ending 1",
+        "name": "R.I.P. by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/ymv3d3.webm",
+        "mp3": "https://naedist.animemusicquiz.com/dd994r.mp3"
+    },
+    {
+        "id": 17,
+        "anime": "Sword Art Online Alternative: Gun Gale Online II - Opening 1",
+        "name": "GG by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/q9ucxs.webm",
+        "mp3": "https://naedist.animemusicquiz.com/iukhxv.mp3"
+    },
+    {
+        "id": 18,
+        "anime": "Sword Art Online Alternative: Gun Gale Online II - Ending 2",
+        "name": "Toxic by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/w35e8h.webm",
+        "mp3": "https://naedist.animemusicquiz.com/23ylwn.mp3"
+    },
+    {
+        "id": 19,
+        "anime": "Sword Art Online Alternative: Gun Gale Online II - Ending 4",
+        "name": "Oh UnHappy Day by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/o2n68p.webm",
+        "mp3": "https://naedist.animemusicquiz.com/sstuxn.mp3"
+    },
+    {
+        "id": 20,
+        "anime": "Synduality: Noir - Insert Song",
+        "name": "DEPARTURES by R×R",
+        "video": "https://naedist.animemusicquiz.com/qtmkoj.webm",
+        "mp3": "https://naedist.animemusicquiz.com/ouinb6.mp3"
+    },
+    {
+        "id": 21,
+        "anime": "Arknights: Enshin Shomei/Rise from Ember - Opening 1",
+        "name": "End of Days by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/u68hzoidt3hla6al.webm",
+        "mp3": "https://naedist.animemusicquiz.com/iyvufk.mp3"
+    },
+    {
+        "id": 22,
+        "anime": "Arknights: Enshin Shomei/Rise from Ember - Ending 2",
+        "name": "Seimei Kansou by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/u1h6o351nev40ug1.webm",
+        "mp3": "https://naedist.animemusicquiz.com/zuspkd5iva6na3h4.mp3"
+    },
+    {
+        "id": 23,
+        "anime": "Sword Art Online Alternative: Gun Gale Online - Ending 1",
+        "name": "Replica by ReoNa",
+        "video": "https://naedist.animemusicquiz.com/rc24lq4ljmx4j5qp.webm",
+        "mp3": "https://naedist.animemusicquiz.com/na6tjk.mp3"
     }
 ]
